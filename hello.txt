@@ -1,2 +1,3 @@
 #!/bin/bash
 echo "hello from github"
+echo "changes are made into file"
