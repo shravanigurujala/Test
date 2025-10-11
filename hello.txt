@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "hello from github"
 echo "changes are made into file"
-echo "automating the flow"
+echo "automating the flow, checking"
